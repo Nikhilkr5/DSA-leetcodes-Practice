@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0143-reorder-list) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0020-valid-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
