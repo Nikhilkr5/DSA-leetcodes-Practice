@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0143-reorder-list) |
+| [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## String
 |  |
@@ -36,4 +37,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
+## Hash Table
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
