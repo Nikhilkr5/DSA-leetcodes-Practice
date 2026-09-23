@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0020-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
+| [1796-second-largest-digit-in-a-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
