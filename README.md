@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0739-daily-temperatures) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0739-daily-temperatures) |
+## Sorting
+|  |
+| ------- |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 <!---LeetCode Topics End-->
