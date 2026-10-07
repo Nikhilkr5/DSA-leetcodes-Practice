@@ -75,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1480-running-sum-of-1d-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
