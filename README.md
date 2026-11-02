@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0143-reorder-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0143-reorder-list) |
+| [0189-rotate-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0283-move-zeroes) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0503-next-greater-element-ii) |
@@ -83,4 +85,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
