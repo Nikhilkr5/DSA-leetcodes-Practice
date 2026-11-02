@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Stack
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0704-binary-search) |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 ## Monotonic Stack
@@ -74,10 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0704-binary-search) |
 ## Prefix Sum
 |  |
