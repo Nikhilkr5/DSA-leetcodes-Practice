@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1796-second-largest-digit-in-a-string) |
@@ -77,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -94,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -103,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0867-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
