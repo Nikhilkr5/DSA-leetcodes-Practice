@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0048-rotate-image](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
@@ -86,10 +87,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0048-rotate-image) |
 | [0867-transpose-matrix](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0867-transpose-matrix) |
 ## Simulation
 |  |
