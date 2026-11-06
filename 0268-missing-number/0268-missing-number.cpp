@@ -1,23 +1,23 @@
 //Bruteforce Approach:
 
-class Solution {
-public:
-    int missingNumber(vector<int>& nums) {
-        int N = nums.size();
-        //Outer loop that runs from 1 to N:
-        for(int i =0;i<=N;i++){
-            int flag =0;
-            for(int j=0;j<N;j++){
-                if(nums[j] == i){
-                    flag = 1;
-                    break;
-                }
-            }
-            if(flag == 0) return i;
-        } 
-        return 0;       
-    }
-};
+// class Solution {
+// public:
+//     int missingNumber(vector<int>& nums) {
+//         int N = nums.size();
+//         //Outer loop that runs from 1 to N:
+//         for(int i =0;i<=N;i++){
+//             int flag =0;
+//             for(int j=0;j<N;j++){
+//                 if(nums[j] == i){
+//                     flag = 1;
+//                     break;
+//                 }
+//             }
+//             if(flag == 0) return i;
+//         } 
+//         return 0;       
+//     }
+// };
 
 
 //Better Soln : Using Hashing
@@ -43,24 +43,24 @@ public:
         
 //Optimised Solution- Using sum
 
-// class Solution {
-// public:
-//     int missingNumber(vector<int>& nums) {
-//         int n = nums.size();
+class Solution {
+public:
+    int missingNumber(vector<int>& nums) {
+        int n = nums.size();
 
-//         int sum1 = n*(n+1)/2;
-//         int sum2 = 0;
-//         for(int i=0;i<n;i++){
-//             sum2+=nums[i];
-//         }
+        int sum1 = n*(n+1)/2;
+        int sum2 = 0;
+        for(int i=0;i<n;i++){
+            sum2+=nums[i];
+        }
 
-//         int missing = sum1-sum2;
+        int missing = sum1-sum2;
 
-//         if(missing != 0) return missing;
+        if(missing != 0) return missing;
 
-//         return 0;        
-//     }
-// };
+        return 0;        
+    }
+};
 
 
 //Anther optimised solution will be using Xor
