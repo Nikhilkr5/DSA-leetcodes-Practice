@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Stack
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0867-transpose-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0867-transpose-matrix) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
