@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -103,12 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0704-binary-search) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
