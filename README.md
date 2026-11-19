@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0189-rotate-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0189-rotate-array) |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
