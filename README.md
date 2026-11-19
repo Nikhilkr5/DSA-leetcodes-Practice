@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0048-rotate-image) |
 | [0075-sort-colors](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0075-sort-colors) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
