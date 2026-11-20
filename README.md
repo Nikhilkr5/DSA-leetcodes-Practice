@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0680-valid-palindrome-ii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0268-missing-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0387-first-unique-character-in-a-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
