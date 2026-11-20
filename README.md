@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Stack
 |  |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1796-second-largest-digit-in-a-string) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -184,4 +186,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0680-valid-palindrome-ii) |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 <!---LeetCode Topics End-->
