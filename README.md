@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0867-transpose-matrix) |
 | [0904-fruit-into-baskets](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1796-second-largest-digit-in-a-string) |
 ## Monotonic Stack
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
