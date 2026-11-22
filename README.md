@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0904-fruit-into-baskets) |
 | [1189-maximum-number-of-balloons](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1189-maximum-number-of-balloons) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1796-second-largest-digit-in-a-string) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
