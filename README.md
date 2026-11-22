@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0739-daily-temperatures) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0867-transpose-matrix](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0867-transpose-matrix) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1480-running-sum-of-1d-array) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/1838-frequency-of-the-most-frequent-element) |
