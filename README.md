@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0206-reverse-linked-list) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0268-missing-number) |
@@ -285,5 +288,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Nikhilkr5/DSA-leetcodes-Practice/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
